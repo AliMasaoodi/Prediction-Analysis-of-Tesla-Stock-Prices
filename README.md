@@ -1,19 +1,38 @@
 
-<h1>Prediction-of-Tesla-Stock-Prices</h1>
+# Tesla Stock Price Prediction using Machine Learning
 <h3>Prediction and Analysis of Tesla Stock Prices</h3>
-<h2><img src="https://c.tenor.com/k3VfwdRd6cEAAAAi/loading-load.gif" width="50px" height="50px" alt="In Progress"> In Progress ... </h2>
+This repository contains code for predicting the stock prices of Tesla using a Long Short-Term Memory (LSTM) model. The LSTM model is implemented using PyTorch, a popular deep learning framework.
 
-  ```diff
-+ Welcome To Add A Contribution ... 
-```
+## Dataset
+  The stock price data for Tesla is stored in the `tesla_stock_data.csv` file. The data includes the date and the closing prices of Tesla's stock. 
 
-``` diff
-+ Contribution could be:
-+ a model you tried on this dataset.
-+ a pre-processing, anlysis, or cleaning on the dataset.
-```
-  ```diff
-+ The Goal of collaboration in this project is to figure out which algorithm or technique can be able approximately to mimic this application ... 
-```
-<h2><img src="https://c.tenor.com/hB9OTbewrikAAAAi/work-work-in-progress.gif" width="150px" height="120px" alt="In Progress"> </h2>
-<img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Prediction-and-Analysis-of-Tesla-Stock-Prices.png?raw=true" alt="">
+I used MinMaxScaler from scikit-learn normalizing the prices of the dataset.
+
+## Results
+The historical close prices of Tesla stock are plotted using matplotlib. The LSTM model is trained for a specified number of epochs with a defined learning rate. The loss is printed during training to monitor the model's convergence.
+
+The predictions made by the trained model are inverse transformed to obtain actual stock prices. The RMSE is calculated to evaluate the model's accuracy in predicting both the training and test datasets.
+
+<img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Tesla%20Stock%20Prediction%20-%20Predictions%20vs%20True%20Prices%20-%20Ali%20Masaoodi.jpg" alt="Tesla Stock Prediction - Predictions vs True Prices">
+<img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Tesla%20Stock%20Prediction%20-%20Historical%20Close%20Prices%20-%20Ali%20Masaoodi.jpg?raw=true" alt="Tesla Stock Prediction - Historical Close Prices">
+<img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Tesla%20Stock%20Prediction%20-%20Distribution%20of%20Close%20Prices%20-%20Ali%20Masaoodi.jpg" alt="Tesla Stock Prediction - Distribution of Close Prices">
+
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
+
+## References
+[1] PyTorch: https://pytorch.org/
+[2] Scikit-learn: https://scikit-learn.org/
+[3] Matplotlib: https://matplotlib.org/
+[4] Seaborn: https://seaborn.pydata.org/
+
+<h2><img src="https://c.tenor.com/k3VfwdRd6cEAAAAi/loading-load.gif" width="50px" height="50px" alt=""> Follow me on</h2>
+
+#### To be updated with my new projects, [Follow Me](https://github.com/AliMasaoodi) :
+![Ali Masaoodi LinkedIn](https://user-images.githubusercontent.com/33722769/208019646-5b06a2bd-5f75-43e2-8399-9150fe88db39.png)
+[@AliMasaoodi](https://www.linkedin.com/in/ali-masaoodi/)
+![Ali Masaoodi Twitter](https://user-images.githubusercontent.com/33722769/208019190-af438c0a-3c5b-44b7-8587-85889c17224e.png)
+[@AliMasaoodi](https://twitter.com/AliMasaoodi)
+![Ali Masaoodi Github](https://user-images.githubusercontent.com/33722769/208020361-395da81a-8222-41e5-9f60-e82a846fa4fd.png)
+[@AliMasaoodi](https://github.com/AliMasaoodi)
