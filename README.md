@@ -13,11 +13,12 @@ The historical close prices of Tesla stock are plotted using matplotlib. The LST
 
 The predictions made by the trained model are inverse transformed to obtain actual stock prices. The RMSE is calculated to evaluate the model's accuracy in predicting both the training and test datasets.
 
-<img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Tesla%20Stock%20Prediction%20-%20Predictions%20vs%20Actual%20Prices%20-%20Ali%20Masaoodi.jpg" alt="Tesla Stock Prediction - Predictions vs Actual Prices">
 <img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Tesla%20Stock%20Prediction%20-%20Predictions%20vs%20True%20Prices%20-%20Ali%20Masaoodi.jpg" alt="Tesla Stock Prediction - Predictions vs True Prices">
 <img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Tesla%20Stock%20Prediction%20-%20Historical%20Close%20Prices%20-%20Ali%20Masaoodi.jpg?raw=true" alt="Tesla Stock Prediction - Historical Close Prices">
 <img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Tesla%20Stock%20Prediction%20-%20Distribution%20of%20Close%20Prices%20-%20Ali%20Masaoodi.jpg" alt="Tesla Stock Prediction - Distribution of Close Prices">
 <img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Tesla%20Stock%20Prediction%20-%20Correlation%20Heatmap%20-%20Ali%20Masaoodi.jpg" alt="Tesla Stock Prediction - Correlation Heatmap">
+<img src="https://github.com/AliMasaoodi/Prediction-Analysis-of-Tesla-Stock-Prices/blob/main/figures/Tesla%20Stock%20Prediction%20-%20Predictions%20vs%20Actual%20Prices%20-%20Ali%20Masaoodi.jpg" alt="Tesla Stock Prediction - Predictions vs Actual Prices">
+
 
 
 ## License
