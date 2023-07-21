@@ -33,7 +33,9 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 <h2><img src="https://c.tenor.com/k3VfwdRd6cEAAAAi/loading-load.gif" width="50px" height="50px" alt=""> Follow me on</h2>
 
 #### To be updated with my new projects, [Follow Me](https://github.com/AliMasaoodi) :
+
 ![Ali Masaoodi LinkedIn](https://user-images.githubusercontent.com/33722769/208019646-5b06a2bd-5f75-43e2-8399-9150fe88db39.png)
 [@AliMasaoodi](https://www.linkedin.com/in/ali-masaoodi/)
 ![Ali Masaoodi Github](https://user-images.githubusercontent.com/33722769/208020361-395da81a-8222-41e5-9f60-e82a846fa4fd.png)
 [@AliMasaoodi](https://github.com/AliMasaoodi)
+
