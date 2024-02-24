@@ -37,8 +37,3 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 [@AliMasaoodi](https://www.linkedin.com/in/ali-masaoodi/)
 ![Ali Masaoodi Github](https://user-images.githubusercontent.com/33722769/208020361-395da81a-8222-41e5-9f60-e82a846fa4fd.png)
 [@AliMasaoodi](https://github.com/AliMasaoodi)
-
-
-
-
-
